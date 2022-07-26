@@ -5,5 +5,7 @@ Name : Rania
 Major : software Developer
 Gender : Female
 
-
+Name : Yazan 
+Major : software Developer
+Gender : Male
 
